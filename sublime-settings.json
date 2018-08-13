@@ -1,0 +1,33 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Colorsublime - Themes/GhettoBerryBlast.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Operator Mono Book",
+	"font_size": 16.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_accent_indigo": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_tab": true,
+	"material_theme_titlebar": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
+
