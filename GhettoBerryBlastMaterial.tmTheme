@@ -51,10 +51,8 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#687AC0</string>
+				<string>#555e74</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,9 +119,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F45198</string>
-				<key>fontStyle</key>
-				<string>italic</string>
+				<string>#1BA6C4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,10 +129,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#768ADA</string>
+				<string>#1BA6C4</string>
+				<key>fontStyle</key>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,8 +181,6 @@
 				<string>#5BB1F3</string>
 				<key>background</key>
 				<string></string>
-				<key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,8 +201,7 @@
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
+
 			</dict>
 		</dict>
 		<dict>
